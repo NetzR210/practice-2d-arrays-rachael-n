@@ -6,6 +6,8 @@ let allScores = [
   [88, 78, 82]  // Student 3 scores
 ];
 
+console.log("Student Scores:", allScores);
+
 
 // Challenge 2 Build a Seating Grid
 
@@ -15,6 +17,8 @@ let theaterSeating = [
   ["C1", "C2", "C3", "C4"]  // Row 3
 ];
 
+console.log("Theater Seating Grid:", theaterSeating);
+
 
 // Challenge 3 Form a Multi-Dimensional Contact List
 
@@ -22,3 +26,5 @@ let contactsList = [
   ["Lisa Coleman", "lisa.coleman@hotmail.com", "555-1234"], // Contact 1
   ["Matt Fink", "DoctorFink@icloud.com", "555-5678"]        // Contact 2
 ];
+
+console.log("Contacts List:", contactsList);
